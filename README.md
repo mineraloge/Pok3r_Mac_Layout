@@ -1,2 +1,2 @@
-# Pok3r_Mac_Layout
-Layout für Vortex Pok3r Tastatur
+# Pok3r Mac Layout
+Mac Layout für Vortex Pok3r Tastatur
